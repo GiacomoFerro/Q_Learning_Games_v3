@@ -44,4 +44,4 @@ plt.grid()#put the grid
 plt.show()#print in output the plot and give the possibility to save it on your computer 
 plt.savefig("rewards_taxi_pol_iteration.png")
 
-os.remove("/home/giacomo/Scrivania/Q_Learning_v3/Q_Learning_Games_v3_Policy_Iteration/Taxi_Game_Policy_Iteration/Taxi_Analysis/rewards_taxi_pol_iteration.txt")#to remove the file
+os.remove("/home/giacomo/Scrivania/Q_Learning_Games_v3/Q_Learning_Games_v3_Policy_Iteration/Taxi_Game_Policy_Iteration/Taxi_Analysis/rewards_taxi_pol_iteration.txt")#to remove the file
