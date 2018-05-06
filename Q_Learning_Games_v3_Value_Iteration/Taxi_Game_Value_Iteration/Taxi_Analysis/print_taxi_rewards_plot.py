@@ -44,6 +44,6 @@ plt.grid()#put the grid
 plt.show()#print in output the plot and give the possibility to save it on your computer 
 plt.savefig("rewards_taxi_value_iteration.png")
 
-os.remove("/home/giacomo/Scrivania/Q_Learning_v3/Q_Learning_Games_v3_Value_Iteration/Taxi_Game_Value_Iteration/Taxi_Analysis/rewards_taxi_value_iteration.txt")
+os.remove("/home/giacomo/Scrivania/Q_Learning_Games_v3/Q_Learning_Games_v3_Value_Iteration/Taxi_Game_Value_Iteration/Taxi_Analysis/rewards_taxi_value_iteration.txt")
 
 
