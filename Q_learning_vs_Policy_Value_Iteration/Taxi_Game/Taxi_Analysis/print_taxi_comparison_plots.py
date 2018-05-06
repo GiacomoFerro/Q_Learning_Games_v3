@@ -85,9 +85,9 @@ plt.legend(loc="lower right")
 plt.show()#print in output the plot and give the possibility to save it on your computer 
 plt.savefig("rewards_taxi_comparison.png")
 
-os.remove("/home/giacomo/Scrivania/Q_Learning_v3/Q_learning_vs_Policy_Value_Iteration/Taxi_Game/Taxi_Analysis/rewards_taxi_value_iteration.txt")
-os.remove("/home/giacomo/Scrivania/Q_Learning_v3/Q_learning_vs_Policy_Value_Iteration/Taxi_Game/Taxi_Analysis/rewards_taxi_pol_iteration.txt")
-os.remove("/home/giacomo/Scrivania/Q_Learning_v3/Q_learning_vs_Policy_Value_Iteration/Taxi_Game/Taxi_Analysis/rewards_taxi_qlearning.txt")
+os.remove("/home/giacomo/Scrivania/Q_Learning_Games_v3/Q_learning_vs_Policy_Value_Iteration/Taxi_Game/Taxi_Analysis/rewards_taxi_value_iteration.txt")
+os.remove("/home/giacomo/Scrivania/Q_Learning_Games_v3/Q_learning_vs_Policy_Value_Iteration/Taxi_Game/Taxi_Analysis/rewards_taxi_pol_iteration.txt")
+os.remove("/home/giacomo/Scrivania/Q_Learning_Games_v3/Q_learning_vs_Policy_Value_Iteration/Taxi_Game/Taxi_Analysis/rewards_taxi_qlearning.txt")
 
 
 
