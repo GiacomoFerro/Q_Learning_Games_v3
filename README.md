@@ -21,7 +21,6 @@ You can watch the class env file in order to verify this fact: you have to go in
 I've chosen for you one games that follow these specs: "Taxi", contained in envs/toy_text.
 
 ### TAXI GAME:
-
 -----------------------------------------------------------------------------------------------------------------------------------
 
 There are three different folders:
