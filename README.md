@@ -81,7 +81,7 @@ For comparison plots:
 
 ### Authors:
 
-* Giacomo Ferro - https://github.com/JackIron
+* Giacomo Ferro - https://github.com/GiacomoFerro
 
 ### License:
 
